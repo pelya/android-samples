@@ -13,7 +13,7 @@
  * limitations under the License.
  */
 
-package com.google.example.games.bc;
+package com.notgoogle.myexample.games.bc;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -36,7 +36,6 @@ import com.google.android.gms.games.multiplayer.realtime.Room;
 import com.google.android.gms.games.multiplayer.realtime.RoomConfig;
 import com.google.android.gms.games.multiplayer.realtime.RoomStatusUpdateListener;
 import com.google.android.gms.games.multiplayer.realtime.RoomUpdateListener;
-import com.google.example.games.basegameutils.BaseGameActivity;
 
 import java.util.ArrayList;
 import java.util.HashMap;

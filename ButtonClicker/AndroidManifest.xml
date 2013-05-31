@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.example.games.bc"
+    package="com.notgoogle.myexample.games.bc"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -33,7 +33,7 @@
             android:value="@string/app_id" />
 
         <activity
-            android:name="com.google.example.games.bc.MainActivity"
+            android:name="com.notgoogle.myexample.games.bc.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
